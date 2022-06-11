@@ -9,7 +9,9 @@ public class GitConflictResolve {
 		System.out.println("its Multiplication");
 		System.out.println("Multiplication: "+a*b);
 
-		System.out.println("hi happy");
+		System.out.println("Addition");
+		System.out.println("Addition: "+a+b);
+		
 	}
 
 }
