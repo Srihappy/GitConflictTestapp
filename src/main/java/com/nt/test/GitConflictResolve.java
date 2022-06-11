@@ -6,8 +6,8 @@ public class GitConflictResolve {
 		int a=10;
 		int b=30;
 		
-		System.out.println("its addition");
-		System.out.println("Addition: "+a+b);
+		System.out.println("its Multiplication");
+		System.out.println("Multiplication: "+a*b);
 
 	}
 
