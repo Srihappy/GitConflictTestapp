@@ -13,15 +13,14 @@ public class GitConflictResolve {
 	}
 
 	private static void addition() {
-		int c=a+b;
 		System.out.println("Addition");
-		System.out.println("Addition: "+c);		
+		System.out.println("Addition: "+a+b);		
 	}
 
 	private static void multiplication() {
-		int c=a*b;
+		//int c=a*b;
 		System.out.println("its Multiplication");
-		System.out.println("Multiplication: "+c);				
+		System.out.println("Multiplication: "+a*b);				
 	}
 
 }
