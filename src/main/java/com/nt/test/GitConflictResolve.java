@@ -18,9 +18,10 @@ public class GitConflictResolve {
 	}
 
 	private static void multiplication() {
-		//int c=a*b;
+		int c=a*b;
 		System.out.println("its Multiplication");
-		System.out.println("Multiplication: "+a*b);				
+		System.out.println("Multiplication: "+a*b);	
+		System.out.println(c);
 	}
 
 }
